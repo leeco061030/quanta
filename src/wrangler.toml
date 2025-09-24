@@ -2,7 +2,7 @@ name = "quanta"
 
 main = "src/index.js"
 
-compatibility_date = "2024-07-25"
+compatibility_date = "2025-09-24"
 
 compatibility_flags = [ "nodejs_compat" ]
 
