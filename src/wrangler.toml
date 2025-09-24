@@ -1,4 +1,4 @@
-name = "tls"
+name = "quanta"
 
 main = "src/index.js"
 
